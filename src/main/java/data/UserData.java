@@ -1,7 +1,7 @@
 package data;
 
 public class UserData {
-    public static String name = "LeisanM";
+    public static String name = "LeisanIvanov";
     public static String phone = "98765432198";
     public static String email = "green@mail.ru";
     public static String fistName = "Leisan";

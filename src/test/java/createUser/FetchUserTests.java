@@ -34,7 +34,7 @@ public class FetchUserTests {
             User expectedResponse = new User(
                     email,
                     fistName,
-                    180,
+                    220,
                     lastName,
                     password,
                     phone,
